@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Roulette/Roulette.unity
+    guid: 8c4a87ac1dac40742897a742e3601d5d
+  - enabled: 1
+    path: Assets/Shape Run/Shape Run.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Ciricle Attack/Circle Attack.unity
+    guid: 7b77bea52b42ef2449e0684017a1d696
+  - enabled: 1
+    path: Assets/Shape Run/Shape Run Easy.unity
+    guid: 95ea35f3745ad0248aca05ddd429fb2b
+  - enabled: 1
+    path: Assets/Shape Run/Shape Run Controls.unity
+    guid: 8a19392cf29df0e4fa49321ce6f6e1c1
+  - enabled: 1
+    path: Assets/Ciricle Attack/Circle Attack Controls.unity
+    guid: 4c6e20bf0e15371409c86c7b521d5ac0
+  - enabled: 1
+    path: Assets/Cube Climb/Cube Climb Controls.unity
+    guid: 16ac75fb986910a4fb43ad926bdd1da0
+  - enabled: 1
+    path: Assets/Cube Climb/Cube Climb.unity
+    guid: c4042feae8101dd4ba61fdcdf753779b
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
